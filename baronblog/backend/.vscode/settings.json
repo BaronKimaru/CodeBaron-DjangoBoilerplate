@@ -1,0 +1,14 @@
+{
+    "python.pythonPath":"C:\\baronprojects\\pythonprojects\\djangoprojects\\baronblog\\backend\\venv\\Scripts\\python",
+    "team.showWelcomeMessage": false,
+    "editor.formatOnSave": true,
+    "python.linting.pep8Enabled": true,
+    "python.linting.pylintPath": "C:\\baronprojects\\pythonprojects\\djangoprojects\\baronblog\\backend\\venv\\Scripts\\pylint",
+    "python.venvPath":"C:\\baronprojects\\pythonprojects\\djangoprojects\\baronblog\\backend\\venv\\Scripts\\python",
+    "python.linting.pylintArgs": [
+        "--load-plugins",
+        "pylint_django"
+    ],
+    "python.linting.pylintEnabled": true,
+    "python.linting.pep8Args": ["--ignore=E501"]
+}
